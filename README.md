@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhoshkumar1903&label=Profile%20views&color=0e75b6&style=flat" alt="santhoshkumar1903" /> </p>
 
-- 🔭 I’m currently working on **DevOps**
+-  I’m currently working on **DevOps and AWS**
 
-- 🌱 I’m currently learning **Terraform, GitLab, AWS.**
+-  I’m currently learning **AWS, Terraform, Jenkins, Kubernetes**
 
-- 🤝 I’m looking for help with **landing tech job**
+-  All of my projects are available at [https://github.com/SanthoshKumar1903](https://github.com/SanthoshKumar1903)
 
-- 👨‍💻 All of my projects are available at [https://github.com/SanthoshKumar1903](https://github.com/SanthoshKumar1903)
-
-- 💬 Ask me about **my experiences.**
+-  Ask me about **my experiences**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
